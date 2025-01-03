@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7095fcfd-9ca3-447e-ad6c-dd35481d86a4)# Android-Chatting-Application
+# Android-Chatting-Application
 
 This repository contains the code for an Android chatting application. The application enables real-time text communication between users. Below is an overview of the application’s structure and key functionalities.
 
