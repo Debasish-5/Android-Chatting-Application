@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="signup">#00bfff</color>
+    <color name="purple">#68C3FF</color>
+    <color name="Red">#ff0000</color>
+    <color name="gradientstart">#f2709c</color>
+    <color name="gradientend">#ff9472</color>
+    <color name="navbar">#b9f4ff</color>
+    <color name="selected_color">#37bf59</color>
+    <color name="unselected_color">#CACBBE</color>
+    <color name="background">#F2F4F4</color>
+</resources>
